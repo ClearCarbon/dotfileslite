@@ -1,4 +1,4 @@
-DIR=~/dotfiles
+DIR=~/dotfileslite
 echo DIR
 for file in vimrc bashrc
 do
